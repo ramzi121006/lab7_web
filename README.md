@@ -1,114 +1,82 @@
-# lab7_web
+# 📌 Praktikum CodeIgniter 4 - Layout Sederhana
 
-## Nama               : Nadhia Shafira_ 312410498
+## 👤 Identitas
+- Nama: (ISI NAMA KAMU)
+- NIM: (ISI NIM KAMU)
+- Kelas: (ISI KELAS)
 
-## Kelas              : I241E
-
-## Matkul             : Pemograman Web
-
-## Dosen Pengampu     : Agung Nugroho, S.Kom., M.Kom. 
-
-___
-
-# Praktikum 1 CodeIgniter 
+---
 
 ## 📖 Deskripsi
-
-Project ini merupakan hasil praktikum CodeIgniter 4 yang mempelajari pembuatan website sederhana menggunakan konsep MVC (Model, View, Controller).
+Project ini merupakan hasil praktikum pembuatan website sederhana menggunakan **CodeIgniter 4**.  
+Website ini memiliki beberapa halaman yaitu **Home, About, Contact, dan FAQ** dengan tampilan layout menggunakan CSS (Lab4Web).
 
 ---
 
 ## ⚙️ Fitur
-
-- Routing halaman
-  
-- Controller Page
-  
-- View (About, Contact, FAQ)
-  
-- Layout Template (Header, Footer, Sidebar)
-  
-- Styling menggunakan CSS
+- Routing halaman (About, Contact, FAQ)
+- Menggunakan Controller & View
+- Menggunakan Template (Header & Footer)
+- Tampilan layout dengan CSS
+- Sidebar dan Navbar
 
 ---
 
-## 📸 Hasil Screenshot
-
-### SS1 - Aktivasi CodeIgniter  
-
-![foto](https://github.com/ramzi121006/lab7_web/blob/5e1a213389b989a62c7435b8de7ff08c27e94c24/ss_prak1_web/01_install_codeigniter_berhasil.png) 
-
-Menampilkan proses awal menjalankan CodeIgniter di browser.
-
-### SS2 - Konfigurasi App 
-
-![foto](https://github.com/ramzi121006/lab7_web/blob/8ccd1023b96642f0d401e69c59ac552586b9c27a/ss_prak1_web/02_php_spark_cli.png) 
-
-Menampilkan pengaturan dengan menghapus tanda `;`.
-
-### SS3 - Rename File .env 
-
-![foto]()
-
-Menampilkan perubahan file `env` menjadi `.env`.
-
-### SS4 - PHP Spark  
-
-![foto](https://github.com/NadhiaShafira/Lab7Web./blob/dd5a8fbc7c9887c8d8d2124061cc2a94e1b294a2/ss_prak1/SS4_Perintah_PHP_Spark.png) 
-
-Menampilkan penggunaan perintah `php spark`.
-
-### SS5 - Halaman About Awal  
-
-![foto](https://github.com/NadhiaShafira/Lab7Web./blob/c2bc9b3219e4fd7b58d1c555b2378e97e37d2e69/ss_prak1/SS5_Halaman_About_Pertama.png)
-
-Menampilkan halaman About sederhana menggunakan echo.
-
-### SS6 - Halaman Term of Services  
-
-![foto](https://github.com/NadhiaShafira/Lab7Web./blob/4c48b6c7b31d5a93c620c46fc1a20a6b01451eeb/ss_prak1/SS6_Halaman_TermOfServices.png
-)
-
-Menampilkan halaman tambahan dari controller.
-
-### SS7 - View About  
-
-![foto](https://github.com/NadhiaShafira/Lab7Web./blob/8d801cf71a1be408bc63ec143bf833cb70417524/ss_prak1/SS7_View_About_Berhasil.png)
-
-Menampilkan halaman About menggunakan view.
-
-### SS8 - Layout dan CSS  
-
-![foto](https://github.com/NadhiaShafira/Lab7Web./blob/4a06f40ce88e176aebb744157af6349536de2dd3/ss_prak1/SS8_Layout_Web_Dengan_CSS_Berhasil.png) 
-
-Menampilkan tampilan website dengan template dan CSS.
-
-### SS9 - Halaman Contact  
-
-![foto](https://github.com/NadhiaShafira/Lab7Web./blob/e6cce25aca4eaf1b01448a2c70f0ea2763f7d54b/ss_prak1/SS9_Halaman_Contact_Berhasil.png)
-
-Menampilkan halaman Contact yang sudah menggunakan layout.
-
-### SS10 - Halaman FAQ  
-
-![foto](https://github.com/NadhiaShafira/Lab7Web./blob/de50308fd43d8c32420c80454609492e90eab9d5/ss_prak1/SS10_Fix_Error_FAQ_Berhasil.png)
-
-Menampilkan halaman FAQ setelah perbaikan error.
+## 📂 Struktur Halaman
+- `/about` → Halaman About  
+- `/contact` → Halaman Contact  
+- `/faqs` → Halaman FAQ  
 
 ---
 
-## 🚀 Cara Menjalankan
+## 🖼️ Screenshot Hasil
 
-1. Jalankan XAMPP (Apache)
-  
-2. Buka browser
+### 1. Install CodeIgniter
+![Install](01_install_code_igniter_berhasil.png)
 
-3. Akses:
-   
-   http://localhost/lab11_ci/ci4/public
+### 2. PHP Spark CLI
+![Spark](02_php_spark_cli.png)
+
+### 3. Mode Debugging
+![Debug](03_mode_debugging.png)
+
+### 4. Routing
+![Routing](04_routing_cli.png)
+
+### 5. Error 404
+![404](05_error_404.png)
+
+### 6. Halaman About
+![About](06_about_page.png)
+
+### 7. Halaman Contact
+![Contact](06_contact_page.png)
+
+### 8. Halaman FAQ
+![FAQ](06_faqs_page.png)
 
 ---
 
-## ✅ Kesimpulan
+## 🎨 Tampilan Layout
 
-Praktikum ini berhasil mengimplementasikan dasar CodeIgniter 4 mulai dari routing, controller, view, hingga pembuatan layout menggunakan CSS.
+### Layout About
+![Layout About](09_layout_about.png)
+
+### Layout Contact
+![Layout Contact](10_layout_contact.png)
+
+### Layout FAQ
+![Layout FAQ](10_layout_faq.png)
+
+---
+
+## 🚀 Kesimpulan
+Dengan menggunakan CodeIgniter 4, pembuatan website menjadi lebih terstruktur dengan konsep MVC (Model-View-Controller).  
+Penggunaan template header dan footer membuat tampilan lebih konsisten di setiap halaman.
+
+---
+
+## ✅ Status
+✔️ Project selesai  
+✔️ Sesuai modul praktikum  
+✔️ Siap dikumpulkan  
