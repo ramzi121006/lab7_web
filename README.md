@@ -42,13 +42,13 @@ Menampilkan proses awal menjalankan CodeIgniter di browser.
 
 ### SS2 - Konfigurasi App 
 
-![foto](https://github.com/NadhiaShafira/Lab7Web./blob/2d2e9e14d04dcf77893f2c7fb843bf0f60c5ad74/ss_prak1/SS2_Konfigurasi_App_Hapus_TitikKoma.png) 
+![foto](https://github.com/ramzi121006/lab7_web/blob/8ccd1023b96642f0d401e69c59ac552586b9c27a/ss_prak1_web/02_php_spark_cli.png) 
 
 Menampilkan pengaturan dengan menghapus tanda `;`.
 
 ### SS3 - Rename File .env 
 
-![foto](https://github.com/NadhiaShafira/Lab7Web./blob/c24acafcb6bd897faa95398ea91116ddc7116fc8/ss_prak1/SS3_Rename_Env_ke_DotEnv.png)
+![foto]()
 
 Menampilkan perubahan file `env` menjadi `.env`.
 
