@@ -38,7 +38,7 @@ Website ini memiliki beberapa halaman yaitu **Home, About, Contact, dan FAQ** de
 ![Spark](https://github.com/ramzi121006/lab7_web/blob/0b2f9ee818a0d9e88366e2ab05f5d0ad15fb3820/ss_prak1_web/02_php_spark_cli.png)
 
 ### 3. Mode Debugging
-![Debug](03_mode_debugging.png)
+![Debug](https://github.com/ramzi121006/lab7_web/blob/4f81ef9cffe85fb5595383ee16db61d4c44845fd/ss_prak1_web/03_mode_debugging.png)
 
 ### 4. Routing
 ![Routing](04_routing_cli.png)
