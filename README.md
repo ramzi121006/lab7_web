@@ -49,7 +49,8 @@ Website ini memiliki beberapa halaman yaitu **Home, About, Contact, dan FAQ** de
 ### 6. Halaman About sebelum css
 ![About](https://github.com/ramzi121006/lab7_web/blob/f4775712e5ec52686264b434e9ce9925f4124094/ss_prak1_web/06_about_page.png)
 
-![About](https://github.com/ramzi121006/lab7_web/blob/f4775712e5ec52686264b434e9ce9925f4124094/ss_prak1_web/06_about_page.png)
+![About](https://github.com/ramzi121006/lab7_web/blob/f448468ae5cd020842aa20c30647f54eb938bbdb/ss_prak1_web/06_contact_page.png)
+
 
 ### 7. Halaman Contact
 ![Contact](06_contact_page.png)
