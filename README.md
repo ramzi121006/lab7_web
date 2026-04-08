@@ -63,7 +63,7 @@ Website ini memiliki beberapa halaman yaitu **Home, About, Contact, dan FAQ** de
 ![Layout About](https://github.com/ramzi121006/lab7_web/blob/1cedc1f26b64c7e32df5d333207d3986df97965f/ss_prak1_web/09_layout_about_fix.png)
 
 ### Layout Contact
-![Layout Contact](10_layout_contact.png)
+![Layout Contact](https://github.com/ramzi121006/lab7_web/blob/24502026652ed47fa12dffd0ce09e94d558ac9b7/ss_prak1_web/10_layout_contact.png)
 
 ### Layout FAQ
 ![Layout FAQ](10_layout_faq.png)
