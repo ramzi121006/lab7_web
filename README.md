@@ -41,7 +41,7 @@ Website ini memiliki beberapa halaman yaitu **Home, About, Contact, dan FAQ** de
 ![Debug](https://github.com/ramzi121006/lab7_web/blob/4f81ef9cffe85fb5595383ee16db61d4c44845fd/ss_prak1_web/03_mode_debugging.png)
 
 ### 4. Routing
-![Routing](04_routing_cli.png)
+![Routing](https://github.com/ramzi121006/lab7_web/blob/6fe3e775e0884e88d5bf5958fa5c65bfaf690ebd/ss_prak1_web/04_routing_cli.png)
 
 ### 5. Error 404
 ![404](05_error_404.png)
