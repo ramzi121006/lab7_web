@@ -35,7 +35,7 @@ Website ini memiliki beberapa halaman yaitu **Home, About, Contact, dan FAQ** de
 ![Install](https://github.com/ramzi121006/lab7_web/blob/b56fcfd01431dd10152a62b88caa0f8aea645fb4/ss_prak1_web/01_install_codeigniter_berhasil.png)
 
 ### 2. PHP Spark CLI
-![Spark](02_php_spark_cli.png)
+![Spark](https://github.com/ramzi121006/lab7_web/blob/0b2f9ee818a0d9e88366e2ab05f5d0ad15fb3820/ss_prak1_web/02_php_spark_cli.png)
 
 ### 3. Mode Debugging
 ![Debug](03_mode_debugging.png)
