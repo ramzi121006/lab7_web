@@ -1,9 +1,9 @@
 # 📌 Praktikum CodeIgniter 4 - Layout Sederhana
 
 ## 👤 Identitas
-- Nama: (ISI NAMA KAMU)
-- NIM: (ISI NIM KAMU)
-- Kelas: (ISI KELAS)
+- Nama:  Muhamad Valentino Ramzi
+- NIM:   312410454
+- Kelas: I241E
 
 ---
 
@@ -66,7 +66,7 @@ Website ini memiliki beberapa halaman yaitu **Home, About, Contact, dan FAQ** de
 ![Layout Contact](https://github.com/ramzi121006/lab7_web/blob/24502026652ed47fa12dffd0ce09e94d558ac9b7/ss_prak1_web/10_layout_contact.png)
 
 ### Layout FAQ
-![Layout FAQ](10_layout_faq.png)
+![Layout FAQ](https://github.com/ramzi121006/lab7_web/blob/1764c69dfc08823de323c4a164df13c26d69784f/ss_prak1_web/10_layout_faqs.png)
 
 ---
 
