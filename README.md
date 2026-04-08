@@ -32,7 +32,7 @@ Website ini memiliki beberapa halaman yaitu **Home, About, Contact, dan FAQ** de
 ## 🖼️ Screenshot Hasil
 
 ### 1. Install CodeIgniter
-![Install](01_install_code_igniter_berhasil.png)
+![Install](https://github.com/ramzi121006/lab7_web/blob/b56fcfd01431dd10152a62b88caa0f8aea645fb4/ss_prak1_web/01_install_codeigniter_berhasil.png)
 
 ### 2. PHP Spark CLI
 ![Spark](02_php_spark_cli.png)
